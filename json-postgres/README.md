@@ -1,4 +1,4 @@
-# JSON-PostgreSQL-JPA 
+# Save JSON data to PostgreSQL with JPA
 
 Learning project (Spring Boot 2) to parse JSON and save data to PostgreSQL with JPA.
 
